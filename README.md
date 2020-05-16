@@ -5,4 +5,4 @@
 2. Shows how an app can avail features like the change in the language
 
 # Screenshots
-![image](/Screenshot 61.png)
+![image](/Screenshot61.png)
